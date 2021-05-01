@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on Android Devlopment 📱 
-- 🌱 I’m currently learning Android , DSA , Frontend web Dev 
+- 🌱 I’m currently learning Android , DSA  
 - 👯 I’m looking to collaborate on many good open Source Projects 
 - 💬 Ask me about anything! 🤗
 - 📫 How to reach me: lakshaygarg128@gmail.com	
