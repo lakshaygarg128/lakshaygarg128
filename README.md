@@ -20,6 +20,6 @@
 <a href = "https://www.linkedin.com/in/lakshay-garg-56b37718a/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/Lakshaygarg777><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/lakshay_2410/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href="https://leetcode.com/lakshaygarg128/" >  <img  src="https://pathrise-website-guide-wp.s3.us-west-1.amazonaws.com/guides/wp-content/uploads/2019/05/10175228/images-11.png" /></a>
+
 
 </p>
