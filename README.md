@@ -20,6 +20,7 @@
 <a href = "https://leetcode.com/lakshaygarg128/"><img src="https://user-images.githubusercontent.com/32040901/79929570-197c2480-8414-11ea-9358-c92a53916a7f.png" width="48" 
      height="48"/></a>
 <a href = "https://auth.geeksforgeeks.org/user/lakshaygarg128/practice/"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" width="48" height="48"/></a>
+<a href = "https://www.hackerrank.com/lakshaygarg128"><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="48" height="48"/></a>
 
 
 </p>
