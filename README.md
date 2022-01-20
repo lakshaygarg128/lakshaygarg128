@@ -20,6 +20,7 @@
 <a href = "https://www.linkedin.com/in/lakshay-garg-56b37718a/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/Lakshaygarg777"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/lakshay_2410/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+  <a href = "https://leetcode.com/lakshaygarg128/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"/></a>
 
 
 </p>
