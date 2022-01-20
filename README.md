@@ -1,3 +1,6 @@
+[![ GitHub Banner](https://i.gifer.com/origin/5f/5fe7baeefd6dd59d87a09c95a76c605f_w200.webp)](https://www.linkedin.com/in/lakshay-garg-56b37718a/)
+
+
 ### Hi there 👋
 
 
