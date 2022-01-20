@@ -1,4 +1,4 @@
-[![ GitHub Banner](https://i.gifer.com/origin/5f/5fe7baeefd6dd59d87a09c95a76c605f_w200.webp)](https://www.linkedin.com/in/lakshay-garg-56b37718a/)
+
 
 
 ### Hi there 👋
@@ -10,12 +10,6 @@
 - 💬 Ask me about anything! 🤗
 - 📫 How to reach me: lakshaygarg128@gmail.com	
 - ⚡ Fun fact: Android Was Not A Google's Idea 😲
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lakshaygarg128&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lakshaygarg128&theme=highcontrast)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshaygarg128&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<a href="https://github.com/lakshaygarg128/github-readme-activity-graph"><img alt="Lakshay Garg Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lakshaygarg128&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 ## Connect with me:
 <p align="left">
@@ -29,3 +23,11 @@
 
 
 </p>
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lakshaygarg128&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lakshaygarg128&theme=highcontrast)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshaygarg128&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/lakshaygarg128/github-readme-activity-graph"><img alt="Lakshay Garg Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lakshaygarg128&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+
